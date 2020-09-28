@@ -1,3 +1,8 @@
+---
+title: "Resume"
+theme: minima
+---
+
 Jonathan Yen
   Phone: XXX-XXX-XXXX
   Email: xxx@gmail.com
