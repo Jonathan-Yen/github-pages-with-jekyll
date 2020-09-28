@@ -1,2 +1,4 @@
-title: resume
+---
+title: "resume"
 date: 2020-09-28
+---
